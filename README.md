@@ -13,5 +13,10 @@ After creating Activity, demonstrate functions of Activity Life Cycle by using L
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/110654940/187083105-5ce92a77-b9fb-4e04-b6cf-a3c0810124e7.png)
 
-![Screenshot (15)](https://user-images.githubusercontent.com/110654940/187083123-db272c27-4bc8-4ea6-bb4e-5b7f16278b7d.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/110654940/187705673-dc6e34b1-ed48-4ec5-ab4e-d8943c48e63e.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/110654940/187705708-3c471675-ec4b-47cc-9252-dabda29e2093.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/110654940/187705754-5c338ca8-62c6-4aae-b12a-c5f77becf8d0.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/110654940/187705793-705bb6f4-086e-401c-ab0b-04878781c8f5.png)
+
 
